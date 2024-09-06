@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1657326571 source:c:\users\thebeast\desktop\pruebas de c\bucles anidados y ejercicio cronometro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+

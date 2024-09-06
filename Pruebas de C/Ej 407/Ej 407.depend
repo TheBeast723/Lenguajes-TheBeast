@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664813409 source:c:\users\thebeast\desktop\pruebas de c\ej 407\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdint.h>
+

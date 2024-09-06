@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663278154 source:c:\users\thebeast\desktop\pruebas de c\generar numeros al azar y guardar en un archivo\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+

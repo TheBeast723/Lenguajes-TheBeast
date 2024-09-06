@@ -1,0 +1,14 @@
+c:\Users\space\Downloads\Prueba\bin\Debug\net8.0\Prueba.exe
+c:\Users\space\Downloads\Prueba\bin\Debug\net8.0\Prueba.deps.json
+c:\Users\space\Downloads\Prueba\bin\Debug\net8.0\Prueba.runtimeconfig.json
+c:\Users\space\Downloads\Prueba\bin\Debug\net8.0\Prueba.dll
+c:\Users\space\Downloads\Prueba\bin\Debug\net8.0\Prueba.pdb
+c:\Users\space\Downloads\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\space\Downloads\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+c:\Users\space\Downloads\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+c:\Users\space\Downloads\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+c:\Users\space\Downloads\Prueba\obj\Debug\net8.0\Prueba.dll
+c:\Users\space\Downloads\Prueba\obj\Debug\net8.0\refint\Prueba.dll
+c:\Users\space\Downloads\Prueba\obj\Debug\net8.0\Prueba.pdb
+c:\Users\space\Downloads\Prueba\obj\Debug\net8.0\Prueba.genruntimeconfig.cache
+c:\Users\space\Downloads\Prueba\obj\Debug\net8.0\ref\Prueba.dll
